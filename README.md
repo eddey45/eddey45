@@ -21,8 +21,8 @@
 
 ## 📜 Certifications
 
-- ### AWS Certified Data Engineer – Associate (DEA)
-- ### CCNA (Cisco Certified Network Associate)
+- ##### AWS Certified Data Engineer – Associate (DEA)
+- ##### CCNA (Cisco Certified Network Associate)
 - 네트워크 관리사 2급
 - 리눅스 마스터 2급
 - 운전면허 2종 보통
