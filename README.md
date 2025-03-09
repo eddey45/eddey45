@@ -29,6 +29,12 @@
 
 ## 🎓 Skills
 
+### 🏗️ Server
+
+### 🌐 Network
+
+### ☁️ Cloud
+
 ## 📂 Projects
 
 <!--
