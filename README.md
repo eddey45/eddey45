@@ -1,10 +1,11 @@
 # 👋 Hi! I'm An Woong Ryeol
 
-Infrastructure Engineer who moves quickly to adapt to the changing IT environment
-
-## 👤 About Me
+변화하는 IT 환경에 맞춰 발빠르게 움직이는 인프라 엔지니어입니다.
 
 ## 🏫 Educations
+
+### 🎓 학력
+- 명지전문대 전공심화과정
 
 ## 📜 Certifications
 
