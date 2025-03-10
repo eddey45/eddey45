@@ -30,7 +30,7 @@
 ## 🎓 Skills
 
 ### 🏗️ Server
-<img src="https://img.shields.io/badge/linux-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Python&logoColor=white"/>
 
 ### 🌐 Network
 
