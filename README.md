@@ -30,8 +30,7 @@
 ## 🎓 Skills
 
 ### 🏗️ Server
-<img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
-<img src="https://img.shields.io/badge/Rocky Linux-10b981?style=flat-square&logo=Rocky Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
 
 ### 🌐 Network
 
