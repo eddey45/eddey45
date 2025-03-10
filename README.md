@@ -32,6 +32,13 @@
 ### 🏗️ Server
 
 - **Linux** : Ubuntu(20.04, 22.04, 24.04), Rocky Linux(9.4), Amazon Linux
+  - 사용자 및 관리자 명령어 이용
+  - 네트워크 및 보안 설정
+  - 서버(SSH, XRDP, Web, FTP, NFS, Samba, DHCP)
+  - Shell Script
+- **Windows** : Windows Server(2012, 2016)
+  - 서버 및 네트워크 관리
+  - IIS(Internet Information Server)과 AD(Active Directory) 생성
 
 ### 🌐 Network
 
