@@ -31,7 +31,7 @@
 
 ### 🏗️ Server
 
-- *Linux* : 
+- **Linux** :  
 
 ### 🌐 Network
 
