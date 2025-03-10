@@ -31,7 +31,7 @@
 
 ### 🏗️ Server
 
-- **Linux** :  
+- **Linux** : Ubuntu(20.04, 22.04, 24.04), Rocky Linux(9.4), Amazon Linux
 
 ### 🌐 Network
 
