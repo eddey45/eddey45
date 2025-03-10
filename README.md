@@ -30,7 +30,6 @@
 ## 🎓 Skills
 
 ### 🏗️ Server
-<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
 
 ### 🌐 Network
 
