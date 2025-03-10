@@ -50,6 +50,25 @@
 
 ### ☁️ Cloud
 
+- **Docker** : Docker(25.0.3)
+  - Docker의 기본 사용법 파악
+  - 이미지 생성 후 저장
+- **Kubernetes** : Kubernetes(1.28.0)
+  - pod 관리
+  - Container(ReplicaSet, Deployment)
+  - Service(NodePort, LoadBalancer)
+- **AWS**
+  - EC2(LoadBalancer, Instance, Elastic IP, AMI, ELP)
+  - RDS(DB, Subnet Group, Parameter Group)
+  - S3(Bucket)
+  - VPC(Routing Table, Security Group, Subnet, Internet Gateway)
+  - Auto Scaling
+  - CloudWatch(Monitoring)
+  - EKS
+  - ELB
+- **Git** : Git(2.47.1), Git Bash, Github
+  - Repository, Log, Branch 관리
+
 ## 📂 Projects
 
 <!--
