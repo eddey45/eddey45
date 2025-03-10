@@ -32,42 +32,18 @@
 ### 🏗️ Server
 
 - **Linux** : Ubuntu(20.04, 22.04, 24.04), Rocky Linux(9.4), Amazon Linux
-  - 사용자 및 관리자 명령어 이용
-  - 네트워크 및 보안 설정
-  - 서버(SSH, XRDP, Web, FTP, NFS, Samba, DHCP)
-  - Shell Script
 - **Windows** : Windows Server(2012, 2016)
-  - 서버 및 네트워크 관리
-  - IIS(Internet Information Server)과 AD(Active Directory) 생성
 
 ### 🌐 Network
 
 - **Network** : Cisco Packet Tracer, GNS3(1.3.9, 2.2.53), XShell 8, IOU Web(8.7)
-  - IP 설정
-  - Routing(RIP, EIGRP, OSPF, ACL, IS-IS)
-  - Switching(VLAN, STP, VTP, EtherChannel, MPLS)
-  - 방화벽(NAT, PAT, Security Context)
 
 ### ☁️ Cloud
 
 - **Docker** : Docker(25.0.3)
-  - Docker의 기본 사용법 파악
-  - 이미지 생성 후 저장
 - **Kubernetes** : Kubernetes(1.28.0)
-  - pod 관리
-  - Container(ReplicaSet, Deployment)
-  - Service(NodePort, LoadBalancer)
 - **AWS**
-  - EC2(LoadBalancer, Instance, Elastic IP, AMI, ELP)
-  - RDS(DB, Subnet Group, Parameter Group)
-  - S3(Bucket)
-  - VPC(Routing Table, Security Group, Subnet, Internet Gateway)
-  - Auto Scaling
-  - CloudWatch(Monitoring)
-  - EKS
-  - ELB
 - **Git** : Git(2.47.1), Git Bash, Github
-  - Repository, Log, Branch 관리
 
 ## 📂 Projects
 
