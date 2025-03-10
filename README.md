@@ -31,6 +31,8 @@
 
 ### 🏗️ Server
 
+- *Linux* : 
+
 ### 🌐 Network
 
 ### ☁️ Cloud
