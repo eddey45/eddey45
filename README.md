@@ -42,6 +42,12 @@
 
 ### 🌐 Network
 
+- **Network** : Cisco Packet Tracer, GNS3(1.3.9, 2.2.53), XShell 8, IOU Web(8.7)
+  - IP 설정
+  - Routing(RIP, EIGRP, OSPF, ACL, IS-IS)
+  - Switching(VLAN, STP, VTP, EtherChannel, MPLS)
+  - 방화벽(NAT, PAT, Security Context)
+
 ### ☁️ Cloud
 
 ## 📂 Projects
